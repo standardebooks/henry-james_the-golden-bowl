@@ -26,8 +26,8 @@
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
-		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Golden Bowl</dc:title>
 		<meta property="file-as" refines="#title">Golden Bowl, The</meta>
 		<dc:subject id="subject-1">Adultery -- Fiction</dc:subject>
@@ -37,20 +37,25 @@
 		<dc:subject id="subject-5">Fathers and daughters -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Americans -- England -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Art -- Collectors and collecting -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/4264</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/4264</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/4264</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/4264</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/4264</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/4264</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/4264</meta>
-		<meta property="se:subject">Drama</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2007100578</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85108438</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh86004353</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008103515</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2007100589</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2007101088</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The daughter of a wealthy American art collector marries a poor Italian Prince.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;The Golden Bowl&lt;/i&gt;, an impoverished Italian aristocrat comes to London to marry a wealthy American, but meets an old mistress before the wedding and spends time with her, helping her pick out a wedding gift. After their marriage, his wife maintains a close relationship with her father, and their relationship becomes strained.&lt;/p&gt;			
-			&lt;p&gt;Completed in 1904, Henry James himself considered &lt;i&gt;The Golden Bowl&lt;/i&gt; one of his best novels, and it remains one of critics’ favorites. Along with &lt;i&gt;The Wings of the Dove&lt;/i&gt; and &lt;i&gt;The Ambassadors&lt;/i&gt;, the novel represents James’ “major phase,” where he returned to the study of Americans abroad, which dominated his earlier career. The novel focuses almost entirely on four central characters, and explores themes of marriage and adultery in an intricate psychological study, which some critics have even suggested anticipates the the style stream-of-conscious writing.&lt;/p&gt;</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
+			&lt;p&gt;Completed in 1904, Henry James himself considered &lt;i&gt;The Golden Bowl&lt;/i&gt; one of his best novels, and it remains one of critics’ favorites. Along with &lt;i&gt;The Wings of the Dove&lt;/i&gt; and &lt;i&gt;The Ambassadors&lt;/i&gt;, the novel represents James’ “major phase,” where he returned to the study of Americans abroad, which dominated his earlier career. The novel focuses almost entirely on four central characters, and explores themes of marriage and adultery in an intricate psychological study, which some critics have even suggested anticipates the style of stream-of-conscious writing.&lt;/p&gt;</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4264</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.500278</dc:source>
