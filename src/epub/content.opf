@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/henry-james/the-golden-bowl</dc:identifier>
 		<dc:date>2019-10-25T22:11:29Z</dc:date>
@@ -61,11 +61,11 @@
 		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">52</meta>
-		<dc:description id="description">The daughter of a wealthy American art collector marries a poor Italian Prince.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The daughter of a wealthy American art collector marries a poor Italian Prince.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Golden Bowl&lt;/i&gt;, an impoverished Italian aristocrat comes to London to marry a wealthy American, but meets an old mistress before the wedding and spends time with her, helping her pick out a wedding gift. After their marriage, his wife maintains a close relationship with her father, while their own relationship becomes strained.&lt;/p&gt;
 			&lt;p&gt;Completed in 1904, &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt; himself considered &lt;i&gt;The Golden Bowl&lt;/i&gt; one of his best novels, and it remains one of critics’ favorites. Along with &lt;i&gt;The Wings of the Dove&lt;/i&gt; and &lt;i&gt;The Ambassadors&lt;/i&gt;, the novel represents James’ “major phase,” where he returned to the study of Americans abroad, which dominated his earlier career. The novel focuses almost entirely on four central characters, and explores themes of marriage and adultery in an intricate psychological study, which some critics have even suggested anticipates the style of stream-of-consciousness writing.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/4264</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.500278</dc:source>
