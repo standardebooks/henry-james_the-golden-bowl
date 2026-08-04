@@ -61,7 +61,7 @@
 		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">52</meta>
-		<dc:abstract>The daughter of a wealthy American art collector marries a poor Italian Prince.</dc:abstract>
+		<meta property="schema:abstract">The daughter of a wealthy American art collector marries a poor Italian Prince.</meta>
 		<dc:description>
 			&lt;p&gt;In &lt;i&gt;The Golden Bowl&lt;/i&gt;, an impoverished Italian aristocrat comes to London to marry a wealthy American, but meets an old mistress before the wedding and spends time with her, helping her pick out a wedding gift. After their marriage, his wife maintains a close relationship with her father, while their own relationship becomes strained.&lt;/p&gt;
 			&lt;p&gt;Completed in 1904, &lt;a href="https://standardebooks.org/ebooks/henry-james"&gt;Henry James&lt;/a&gt; himself considered &lt;i&gt;The Golden Bowl&lt;/i&gt; one of his best novels, and it remains one of critics’ favorites. Along with &lt;i&gt;The Wings of the Dove&lt;/i&gt; and &lt;i&gt;The Ambassadors&lt;/i&gt;, the novel represents James’ “major phase,” where he returned to the study of Americans abroad, which dominated his earlier career. The novel focuses almost entirely on four central characters, and explores themes of marriage and adultery in an intricate psychological study, which some critics have even suggested anticipates the style of stream-of-consciousness writing.&lt;/p&gt;
